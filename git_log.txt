@@ -1,0 +1,64 @@
+commit 1885e14b6829f6ead9abba37338581ae36c1928d
+Merge: 70061de 7a7b516
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 15:01:09 2025 -0800
+
+    Resolved merge conflict in index.html
+
+commit 7a7b516c361559a2a387036c6ca332d71e0ae4cb
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:57:06 2025 -0800
+
+    changed the movie
+
+commit 70061de3c72950b6640e8735eedb2f48422f873b
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:54:38 2025 -0800
+
+    changed the food
+
+commit 14725fdfeb122fd42b03ed35795c2d64f9363085
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:43:44 2025 -0800
+
+    added my favorite movie to index.html
+
+commit f5cd0fdb1ac75dcc85ff1eea8ed298793c8d9fd0
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:40:55 2025 -0800
+
+    Added what my favorite food is to index.html
+
+commit 2a50783da3d9f5fb1ca1476378980a6b65914c7a
+Merge: 4a00a3a c992fe0
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:33:24 2025 -0800
+
+    fixing merge
+
+commit 4a00a3a2a2877bac7d189ffc37faa5a78b66eda3
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:27:34 2025 -0800
+
+    changed name and hobby
+
+commit c992fe095886cf1c15578fd38eb27248f3751cab
+Merge: 1d2bfc0 06b7a07
+Author: KaranK <134567986+username9561@users.noreply.github.com>
+Date:   Wed Feb 12 14:21:25 2025 -0800
+
+    Merge pull request #1 from username9561/info-fill
+    
+    changed name and hobby
+
+commit 06b7a076d6bb05ed83029b79e36386d17f7cdd61
+Author: username9561 <karankapadia911@gmail.com>
+Date:   Wed Feb 12 14:19:04 2025 -0800
+
+    changed name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
